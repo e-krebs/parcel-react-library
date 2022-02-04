@@ -1,5 +1,5 @@
 # What
-This is a repro repository for a parcel bug happening when building a react library
+This is a repro repository for a [parcel bug](https://github.com/parcel-bundler/parcel/issues/7652) happening when building a react library
 - it is built using **parcel**
   - the target is configured to have a **browser** context & being a **library** in `package.json > targets > main`
 - it outputs a dummy **react** component exported through the `src/index.ts` file

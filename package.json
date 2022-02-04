@@ -15,8 +15,7 @@
   },
   "scripts": {
     "build": "parcel build",
-    "watch": "parcel watch",
-    "ts-init": "tsc --init"
+    "watch": "parcel watch"
   },
   "devDependencies": {
     "@babel/core": "^7.17.0",
